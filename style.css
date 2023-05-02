@@ -1,0 +1,131 @@
+.Conteiner{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.contenedor123{
+    width: 84%;
+    text-align: center;
+    margin: 0px auto;
+    justify-content: center;
+    margin-block-end: 20px;
+}
+
+.cajita{
+    padding: 20px;
+    justify-content: left;
+    text-align: left;
+}
+.Caja1{
+    width: 32%;
+    height: 600px;
+    border-width: 1px;
+    border-color: #808080;
+    border-style: solid;
+    float: left;
+    text-align: left;
+}
+.Caja2{
+    width: 32%;
+    height: 600px;
+    border-width: 1px;
+    border-color: #808080;
+    border-style: solid;
+    margin-right: 15px;
+    margin-left: 15px;
+    float: left;
+    text-align: left;
+}
+.Caja3{
+    width: 32%;
+    height: 600px;
+    border-width: 1px;
+    border-color: #808080;
+    border-style: solid;
+    float: left;
+    text-align: left;
+}
+
+.Contenedor2{
+    width: 100%;
+    justify-content: auto;
+    height: 386px;
+    margin-top: 40em;
+    
+}
+
+.Caja4{
+    width: 50%;
+    height: 100%;
+    float: left;
+    border: hidden solid rgb(201, 198, 198);
+}
+.Caja5{
+    width: 50%;
+    height: 100%;
+    background-color: grey;
+    color: white;
+    float: right;
+    text-align: left;
+    padding: 20px;
+    border: hidden solid rgb(201, 198, 198);
+}
+
+.Caja6{
+    width: 60%;
+    margin-top: 20px;
+    justify-content: center;
+    
+}
+
+p1{
+    background-color: rgba(255, 255, 0, 0.774);
+    font-weight: 200;
+    font-weight: bolder;
+}
+
+p2{
+    background-color: rgb(0, 174, 255);
+    color: white;
+    font-weight: 200;
+    font-weight: bolder;
+}
+
+p4{
+    background-color: gray;
+    color: white;
+    font-weight: 200;
+    font-weight: bolder;
+}
+
+p5{
+    background-color: red;
+    color: white;
+    font-weight: 200;
+    font-weight: bolder;
+}
+
+p8{
+    justify-content: right;
+}
+
+button{
+    background-color: transparent;
+    Border: solid white 0.5px;
+    color: white;
+    font-weight: bolder;
+}
+
+.boton2{
+    background-color: green;
+    Border: solid white 0.5px;
+    color: white;
+    
+}
+
+.nav-item2{
+    color: green;
+    
+}
