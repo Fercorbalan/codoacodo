@@ -7,10 +7,12 @@
 
 .contenedor123{
     width: 84%;
+    height: 100px;
     text-align: center;
     margin: 0px auto;
     justify-content: center;
     margin-block-end: 20px;
+
 }
 
 .cajita{
@@ -20,19 +22,15 @@
 }
 .Caja1{
     width: 32%;
-    height: 600px;
-    border-width: 1px;
-    border-color: #808080;
-    border-style: solid;
+    height: 100%;
+    border-style: solid #353a40 3px;
     float: left;
     text-align: left;
 }
 .Caja2{
     width: 32%;
-    height: 600px;
-    border-width: 1px;
-    border-color: #808080;
-    border-style: solid;
+    height: 100%;
+    border-style: solid #353a40 1px;
     margin-right: 15px;
     margin-left: 15px;
     float: left;
@@ -40,10 +38,8 @@
 }
 .Caja3{
     width: 32%;
-    height: 600px;
-    border-width: 1px;
-    border-color: #808080;
-    border-style: solid;
+    height: 100%;
+    border-style: solid #353a40 1px;
     float: left;
     text-align: left;
 }
@@ -65,7 +61,7 @@
 .Caja5{
     width: 50%;
     height: 100%;
-    background-color: grey;
+    background-color: #353a40;
     color: white;
     float: right;
     text-align: left;
@@ -74,10 +70,11 @@
 }
 
 .Caja6{
-    width: 60%;
+    width: 40%;
     margin-top: 20px;
-    justify-content: center;
-    
+    justify-content: right;
+    align-content: center;
+    flex: auto;    
 }
 
 p1{
@@ -94,7 +91,7 @@ p2{
 }
 
 p4{
-    background-color: gray;
+    background-color: #353a40;
     color: white;
     font-weight: 200;
     font-weight: bolder;
@@ -116,13 +113,6 @@ button{
     Border: solid white 0.5px;
     color: white;
     font-weight: bolder;
-}
-
-.boton2{
-    background-color: green;
-    Border: solid white 0.5px;
-    color: white;
-    
 }
 
 .nav-item2{
